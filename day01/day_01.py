@@ -67,7 +67,7 @@ if __name__ == '__main__':
     # multiply the values and return the answer
     print("The solution is %s: %s \n\n" % (values, values[0] * values[1]))
 
-    # find the sume of 3 numbers
+    # find the sum of 3 numbers
     print("Find the sum of three numbers")
     values = find_sum_three_numbers(2020, num_list)
 
